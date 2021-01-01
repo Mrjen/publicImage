@@ -1,0 +1,38 @@
+{
+  "navs": [
+    {
+      "name": "首页",
+      "path": "/"
+    },
+    {
+      "name": "高考升学",
+      "path": "/colleges",
+      "routes": [
+        {
+          "name": "中外合资办学",
+          "path": "/service-business"
+        },
+        {
+          "name": "中外合资办学",
+          "path": "/service-business"
+        },
+        {
+          "name": "中外合资办学",
+          "path": "/service-business"
+        }
+      ]
+    },
+    {
+      "name": "学历提升",
+      "path": "/service-business"
+    },
+    {
+      "name": "研究生",
+      "path": "/colleges1"
+    },
+    {
+      "name": "职业资格证",
+      "path": "/colleges2"
+    }
+  ]
+}
